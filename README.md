@@ -1,5 +1,5 @@
-# Little-Taco-Shop
-🌮 Little Taco Shop - Static Website
+# 🌮 Little Taco Shop - Static Website
+
 Welcome to the official website of The Little Taco Shop, a fun, taco-themed static website built using basic HTML and CSS. This project includes multiple pages that showcase the shop’s menu, hours, and contact information.
 
 📁 Project Structure
