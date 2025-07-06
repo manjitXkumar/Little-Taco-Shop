@@ -1,5 +1,6 @@
 # 🌮 Little Taco Shop
 A simple static website for The Little Taco Shop, built using HTML (CSS will be added soon as I learned).
+Deploy Link- https://manjitxkumar.github.io/Little-Taco-Shop/
 
 📄 Pages
 home.html – Welcome, About, and Menu
