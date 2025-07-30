@@ -1,6 +1,6 @@
 # 🌮 Little Taco Shop
 A simple static website for The Little Taco Shop, built using HTML .
-Deploy Link- https://manjitxkumar.github.io/Little-Taco-Shop/
+Deploy Link- (https://little-taco-shop-three.vercel.app/)
 
 📄 Pages
 home.html – Welcome, About, and Menu
